@@ -1,0 +1,352 @@
+[
+  {
+    "From":"rachel.lee@bizco.com",
+    "To":"carlos@globaltrade.biz",
+    "Subject":"Payment Details Enclosed - Urgent",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: SecureDoc\n\nKind regards,\nRachel Lee",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"james.hall@securemail.net",
+    "To":"linda@securemail.net",
+    "Subject":"Time Sensitive Request from CEO",
+    "Body":"Hi,\n\nThis is James Hall. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nJames Hall",
+    "category":"big_boss"
+  },
+  {
+    "From":"fatima.alsaud@bizco.com",
+    "To":"tom@globaltrade.biz",
+    "Subject":"Payment Details Enclosed - Urgent",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: 4455\n\nKind regards,\nFatima Alsaud",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"sofia.petrova@datahive.io",
+    "To":"rachel@securemail.net",
+    "Subject":"Secure Document for Review",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: Pa$$word\n\nKind regards,\nSofia Petrova",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"tom.becker@globaltrade.biz",
+    "To":"amin@bizco.com",
+    "Subject":"Secure Document for Review",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: SecureDoc\n\nKind regards,\nTom Becker",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"carlos.jimenez@financegroup.org",
+    "To":"rachel@bizco.com",
+    "Subject":"Confidential: Reply Required ASAP",
+    "Body":"Hi,\n\nThis is Carlos Jimenez. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nCarlos Jimenez",
+    "category":"big_boss"
+  },
+  {
+    "From":"amin.nasser@aramco.com",
+    "To":"amin@financegroup.org",
+    "Subject":"Project Update: Sprint Goals Achieved",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nAmin Nasser",
+    "category":"non_malicious"
+  },
+  {
+    "From":"tom.becker@financegroup.org",
+    "To":"sofia@datahive.io",
+    "Subject":"Secure Document for Review",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: 1234\n\nKind regards,\nTom Becker",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"carlos.jimenez@bizco.com",
+    "To":"james@bizco.com",
+    "Subject":"Client Feedback on Last Delivery",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nCarlos Jimenez",
+    "category":"non_malicious"
+  },
+  {
+    "From":"rachel.lee@datahive.io",
+    "To":"carlos@datahive.io",
+    "Subject":"Project Update: Sprint Goals Achieved",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nRachel Lee",
+    "category":"non_malicious"
+  },
+  {
+    "From":"sofia.petrova@aramco.com",
+    "To":"amin@securemail.net",
+    "Subject":"New Compliance Training Required",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nSofia Petrova",
+    "category":"non_malicious"
+  },
+  {
+    "From":"amin.nasser@aramco.com",
+    "To":"tom@datahive.io",
+    "Subject":"Time Sensitive Request from CEO",
+    "Body":"Hi,\n\nThis is Amin Nasser. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nAmin Nasser",
+    "category":"big_boss"
+  },
+  {
+    "From":"james.hall@globaltrade.biz",
+    "To":"james@globaltrade.biz",
+    "Subject":"Time Sensitive Request from CEO",
+    "Body":"Hi,\n\nThis is James Hall. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nJames Hall",
+    "category":"big_boss"
+  },
+  {
+    "From":"linda.ng@bizco.com",
+    "To":"tom@financegroup.org",
+    "Subject":"Project Update: Sprint Goals Achieved",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nLinda Ng",
+    "category":"non_malicious"
+  },
+  {
+    "From":"sofia.petrova@globaltrade.biz",
+    "To":"amin@bizco.com",
+    "Subject":"Payment Details Enclosed - Urgent",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: 1234\n\nKind regards,\nSofia Petrova",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"fatima.alsaud@securemail.net",
+    "To":"fatima@datahive.io",
+    "Subject":"Call Me Immediately",
+    "Body":"Hi,\n\nThis is Fatima Alsaud. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nFatima Alsaud",
+    "category":"big_boss"
+  },
+  {
+    "From":"amin.nasser@aramco.com",
+    "To":"tom@datahive.io",
+    "Subject":"Q2 Strategy Meeting Reschedule",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nAmin Nasser",
+    "category":"non_malicious"
+  },
+  {
+    "From":"linda.ng@datahive.io",
+    "To":"carlos@bizco.com",
+    "Subject":"Secure Document for Review",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: Fin2025\n\nKind regards,\nLinda Ng",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"amin.nasser@bizco.com",
+    "To":"tom@financegroup.org",
+    "Subject":"RE: Outstanding Balance - See Attachment",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: 4455\n\nKind regards,\nAmin Nasser",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"sofia.petrova@bizco.com",
+    "To":"james@securemail.net",
+    "Subject":"Need Your Immediate Attention",
+    "Body":"Hi,\n\nThis is Sofia Petrova. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nSofia Petrova",
+    "category":"big_boss"
+  },
+  {
+    "From":"tom.becker@aramco.com",
+    "To":"fatima@bizco.com",
+    "Subject":"Encrypted Financial Summary Q1",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: PassQ1\n\nKind regards,\nTom Becker",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"tom.becker@globaltrade.biz",
+    "To":"fatima@globaltrade.biz",
+    "Subject":"Time Sensitive Request from CEO",
+    "Body":"Hi,\n\nThis is Tom Becker. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nTom Becker",
+    "category":"big_boss"
+  },
+  {
+    "From":"sofia.petrova@securemail.net",
+    "To":"fatima@aramco.com",
+    "Subject":"Need Your Immediate Attention",
+    "Body":"Hi,\n\nThis is Sofia Petrova. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nSofia Petrova",
+    "category":"big_boss"
+  },
+  {
+    "From":"amin.nasser@securemail.net",
+    "To":"linda@datahive.io",
+    "Subject":"Time Sensitive Request from CEO",
+    "Body":"Hi,\n\nThis is Amin Nasser. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nAmin Nasser",
+    "category":"big_boss"
+  },
+  {
+    "From":"carlos.jimenez@aramco.com",
+    "To":"tom@bizco.com",
+    "Subject":"Q2 Strategy Meeting Reschedule",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nCarlos Jimenez",
+    "category":"non_malicious"
+  },
+  {
+    "From":"tom.becker@bizco.com",
+    "To":"amin@globaltrade.biz",
+    "Subject":"Project Update: Sprint Goals Achieved",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nTom Becker",
+    "category":"non_malicious"
+  },
+  {
+    "From":"james.hall@datahive.io",
+    "To":"linda@securemail.net",
+    "Subject":"Time Sensitive Request from CEO",
+    "Body":"Hi,\n\nThis is James Hall. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nJames Hall",
+    "category":"big_boss"
+  },
+  {
+    "From":"fatima.alsaud@aramco.com",
+    "To":"fatima@globaltrade.biz",
+    "Subject":"Team Sync - Agenda for Tomorrow",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nFatima Alsaud",
+    "category":"non_malicious"
+  },
+  {
+    "From":"linda.ng@globaltrade.biz",
+    "To":"amin@bizco.com",
+    "Subject":"Time Sensitive Request from CEO",
+    "Body":"Hi,\n\nThis is Linda Ng. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nLinda Ng",
+    "category":"big_boss"
+  },
+  {
+    "From":"tom.becker@securemail.net",
+    "To":"sofia@financegroup.org",
+    "Subject":"Payment Details Enclosed - Urgent",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: Pa$$word\n\nKind regards,\nTom Becker",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"tom.becker@bizco.com",
+    "To":"rachel@datahive.io",
+    "Subject":"Project Update: Sprint Goals Achieved",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nTom Becker",
+    "category":"non_malicious"
+  },
+  {
+    "From":"amin.nasser@datahive.io",
+    "To":"sofia@financegroup.org",
+    "Subject":"Need Your Immediate Attention",
+    "Body":"Hi,\n\nThis is Amin Nasser. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nAmin Nasser",
+    "category":"big_boss"
+  },
+  {
+    "From":"carlos.jimenez@financegroup.org",
+    "To":"carlos@globaltrade.biz",
+    "Subject":"Client Feedback on Last Delivery",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nCarlos Jimenez",
+    "category":"non_malicious"
+  },
+  {
+    "From":"amin.nasser@aramco.com",
+    "To":"tom@financegroup.org",
+    "Subject":"Q2 Strategy Meeting Reschedule",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nAmin Nasser",
+    "category":"non_malicious"
+  },
+  {
+    "From":"fatima.alsaud@globaltrade.biz",
+    "To":"sofia@datahive.io",
+    "Subject":"Time Sensitive Request from CEO",
+    "Body":"Hi,\n\nThis is Fatima Alsaud. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nFatima Alsaud",
+    "category":"big_boss"
+  },
+  {
+    "From":"rachel.lee@financegroup.org",
+    "To":"rachel@datahive.io",
+    "Subject":"Call Me Immediately",
+    "Body":"Hi,\n\nThis is Rachel Lee. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nRachel Lee",
+    "category":"big_boss"
+  },
+  {
+    "From":"carlos.jimenez@securemail.net",
+    "To":"sofia@datahive.io",
+    "Subject":"HR Notice: Upcoming Holiday Schedule",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nCarlos Jimenez",
+    "category":"non_malicious"
+  },
+  {
+    "From":"sofia.petrova@aramco.com",
+    "To":"james@datahive.io",
+    "Subject":"Secure Document for Review",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: PassQ1\n\nKind regards,\nSofia Petrova",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"amin.nasser@bizco.com",
+    "To":"carlos@globaltrade.biz",
+    "Subject":"Team Sync - Agenda for Tomorrow",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nAmin Nasser",
+    "category":"non_malicious"
+  },
+  {
+    "From":"sofia.petrova@datahive.io",
+    "To":"james@globaltrade.biz",
+    "Subject":"Encrypted Financial Summary Q1",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: SecureDoc\n\nKind regards,\nSofia Petrova",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"tom.becker@bizco.com",
+    "To":"linda@securemail.net",
+    "Subject":"Updated Invoice - Password Protected",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: 4455\n\nKind regards,\nTom Becker",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"james.hall@financegroup.org",
+    "To":"rachel@datahive.io",
+    "Subject":"RE: Outstanding Balance - See Attachment",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: 1234\n\nKind regards,\nJames Hall",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"tom.becker@aramco.com",
+    "To":"fatima@bizco.com",
+    "Subject":"Updated Invoice - Password Protected",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: Pa$$word\n\nKind regards,\nTom Becker",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"tom.becker@aramco.com",
+    "To":"carlos@financegroup.org",
+    "Subject":"Need Your Immediate Attention",
+    "Body":"Hi,\n\nThis is Tom Becker. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nTom Becker",
+    "category":"big_boss"
+  },
+  {
+    "From":"james.hall@financegroup.org",
+    "To":"tom@securemail.net",
+    "Subject":"Project Update: Sprint Goals Achieved",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nJames Hall",
+    "category":"non_malicious"
+  },
+  {
+    "From":"rachel.lee@aramco.com",
+    "To":"rachel@datahive.io",
+    "Subject":"RE: Outstanding Balance - See Attachment",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: Pa$$word\n\nKind regards,\nRachel Lee",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"linda.ng@aramco.com",
+    "To":"fatima@securemail.net",
+    "Subject":"Secure Document for Review",
+    "Body":"Dear Team,\n\nPlease find the updated financial document attached. The file is password-protected for security purposes.\n\nPassword: 4455\n\nKind regards,\nLinda Ng",
+    "category":"velvet_shop"
+  },
+  {
+    "From":"amin.nasser@financegroup.org",
+    "To":"sofia@datahive.io",
+    "Subject":"Project Update: Sprint Goals Achieved",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nAmin Nasser",
+    "category":"non_malicious"
+  },
+  {
+    "From":"amin.nasser@bizco.com",
+    "To":"linda@securemail.net",
+    "Subject":"Q2 Strategy Meeting Reschedule",
+    "Body":"Hello Team,\n\nJust a quick note to confirm we've wrapped up all action items from our last sprint. Looking forward to syncing tomorrow on the upcoming deliverables.\n\nBest,\nAmin Nasser",
+    "category":"non_malicious"
+  },
+  {
+    "From":"tom.becker@globaltrade.biz",
+    "To":"sofia@aramco.com",
+    "Subject":"Call Me Immediately",
+    "Body":"Hi,\n\nThis is Tom Becker. Please respond to this message as soon as you can. We have a sensitive issue regarding the company strategy that cannot wait.\n\nRegards,\nTom Becker",
+    "category":"big_boss"
+  }
+]
